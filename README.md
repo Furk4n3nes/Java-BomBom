@@ -11,5 +11,5 @@ kuruludur. Txt formatındaki bir harita dosyası, 10x10 boyutlarında bir matris
 kullanıcı her adımda belirlediği koordinatlarla oyun haritasını günceller. Koordinat seçimi 
 sonrasında, seçilen noktanın komşu hücreleri belirli kurallara göre kontrol edilir ve 
 işaretlenir.</p></h4>
-<img src="https://github.com/Furk4n3nes/Java-BomBom/blob/main/example.png" alt="alt text" >
+<img style="center" src="https://github.com/Furk4n3nes/Java-BomBom/blob/main/example.png" alt="alt text" >
 
